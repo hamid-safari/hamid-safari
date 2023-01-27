@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari">Mobile Developer</a></h1>
 
-<!--
-**hamid-safari/hamid-safari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Mobile Development Projects:</h2>
+
+- <b>Android</b>
+  - [Let's tripp App](https://github.com/hamid-safari/Let-s-trip-App)
+- <b>Flutter</b>
+  - [Personal Finance](https://github.com/hamid-safari/)
+  - [JUZ](https://github.com/hamid-safari/)
+
+<!--<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Mobile Development Starting From Zero](https:)
+- [A Day in the Life of a Mobile developer Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a ?
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<!--<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Hamid | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Hamid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hamid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hamid | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+//[twitter]: https://twitter.com/
+//[instagram]: https://www.instagram.com/
+//[linkedin]: https://linkedin.com/in/ 
+-->
+
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Android Instant Apps, MotionLayout, more AI-based features like chatbots, voice translators, and smart predictions. The combination of AI and ML can bring many changes to the future of Android development.
+- 👯 I’m open to collaborate on open source projects
+- 💬 Ask me about Kotlin, Flutter and Android app architecture
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: "he/him"
 - ⚡ Fun fact: ...
 -->
