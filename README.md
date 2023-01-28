@@ -3,10 +3,10 @@
 <h2>👨‍💻 Mobile Development Projects:</h2>
 
 - <b>Android</b>
-  - [Let's tripp App](https://github.com/hamid-safari/Let-s-trip-App)
+  - [Let's trip App](https://github.com/hamid-safari/Let-s-trip-App)
 - <b>Flutter</b>
-  - [Personal Finance](https://github.com/hamid-safari/)
-  - [JUZ](https://github.com/hamid-safari/)
+  - [Personal Finance App](https://github.com/hamid-safari/Personal-Finance-App)
+  - [Youth Club App](https://github.com/hamid-safari/Youth-Club)
 
 <!--<h2>📺 Popular YouTube Videos</h2>
 
