@@ -28,14 +28,10 @@
 -->
 
 
+Here are some facts about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Android Instant Apps, MotionLayout, more AI-based features like chatbots, voice translators, and smart predictions. The combination of AI and ML can bring many changes to the future of Android development.
 - 👯 I’m open to collaborate on open source projects
 - 💬 Ask me about Kotlin, Flutter and Android app architecture
-- 📫 How to reach me: ...
 - 😄 Pronouns: "he/him"
-- ⚡ Fun fact: ...
 -->
