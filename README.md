@@ -34,4 +34,4 @@ Here are some facts about me:
 - 👯 I’m open to collaborate on open source projects
 - 💬 Ask me about Kotlin, Flutter and Android app architecture
 - 😄 Pronouns: "he/him"
--->
+
