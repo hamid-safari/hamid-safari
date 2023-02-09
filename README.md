@@ -36,4 +36,7 @@ Here are some facts about me:
 - 💬 Ask me about Kotlin, Flutter and Android app architecture
 - 😄 Pronouns: "he/him"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6)
