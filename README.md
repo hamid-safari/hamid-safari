@@ -26,7 +26,9 @@
 //[instagram]: https://www.instagram.com/
 //[linkedin]: https://linkedin.com/in/ 
 -->
- 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-safari)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some facts about me:
 
 - 🌱 I’m currently learning Android Instant Apps, MotionLayout, more AI-based features like chatbots, voice translators, and smart predictions. The combination of AI and ML can bring many changes to the future of Android development.
