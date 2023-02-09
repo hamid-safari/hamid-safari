@@ -26,8 +26,7 @@
 //[instagram]: https://www.instagram.com/
 //[linkedin]: https://linkedin.com/in/ 
 -->
-
-
+ 
 Here are some facts about me:
 
 - 🌱 I’m currently learning Android Instant Apps, MotionLayout, more AI-based features like chatbots, voice translators, and smart predictions. The combination of AI and ML can bring many changes to the future of Android development.
