@@ -27,7 +27,7 @@
 //[linkedin]: https://linkedin.com/in/ 
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-safari)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some facts about me:
 
@@ -36,3 +36,4 @@ Here are some facts about me:
 - 💬 Ask me about Kotlin, Flutter and Android app architecture
 - 😄 Pronouns: "he/him"
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
