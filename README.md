@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari">Mobile Developer</a></h1>
+<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Mobile Development Projects:</h2>
 
@@ -31,9 +31,8 @@
 
 Here are some facts about me:
 
-- 🌱 I’m currently learning Android Instant Apps, MotionLayout, more AI-based features like chatbots, voice translators, and smart predictions. The combination of AI and ML can bring many changes to the future of Android development.
-- 👯 I’m open to collaborate on open source projects
-- 💬 Ask me about Kotlin, Flutter and Android app architecture
+- 👯 I’m open to collaborating on open-source projects
+- 💬 Ask me about Kotlin, Flutter, and Android app architecture
 - 😄 Pronouns: "he/him"
 
 
