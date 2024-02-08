@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari">Computer Science Student</a></h1>
+<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari"></a></h1>
 
 <h2>👨‍💻 Mobile Development Projects:</h2>
 
