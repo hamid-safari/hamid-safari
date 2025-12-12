@@ -16,7 +16,7 @@ My focus areas:
 
 <h2>Highlighted Security Projects:</h2>
 
-🟩 1. [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001)
+🟩 1. [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001-example)
 A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
 
 🟩 2. [BSI Grundschutz Example Project](https://github.com/hamid-safari/bsi-grundschutz-example)
@@ -33,7 +33,7 @@ Python and Bash tools for log analysis, file integrity checks and basic monitori
 
 🟩 6. [Security Awareness Training](https://github.com/hamid-safari/security-awareness-training)
 Sample training materials and guidelines.
-➡️
+
 <!--![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6)
