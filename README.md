@@ -18,7 +18,7 @@ My focus areas:
 🟩 1. Mini-ISMS based on ISO 27001
 
 A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
-➡️ See Repository
+➡️ See Repository (https://github.com/hamid-safari/mini-isms-iso27001)
 
 🟩 2. BSI Grundschutz Example Project
 
