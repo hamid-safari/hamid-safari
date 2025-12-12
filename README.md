@@ -15,33 +15,23 @@ My focus areas:
 - Secure CI/CD & DevOps Security
 
 <h2>Highlighted Security Projects:</h2>
-🟩 1. Mini-ISMS based on ISO 27001
 
+🟩 1. [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001)
 A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
-➡️ See Repository (https://github.com/hamid-safari/mini-isms-iso27001)
 
-🟩 2. BSI Grundschutz Example Project
-
+🟩 2. [BSI Grundschutz Example Project](https://github.com/hamid-safari/bsi-grundschutz-example)
 Sample IT-Verbund, Schutzbedarf analysis, Maßnahmen and architectural diagrams.
-➡️ [See Repository]
 
-🟩 3. BCM & Business Impact Analysis
-
+🟩 3. [BCM & Business Impact Analysis](https://github.com/hamid-safari/bcm-bia-example)
 Example BIA, RTOs/RPOs and a simple continuity plan.
-➡️ [See Repository]
 
-🟩 4. Incident Response Templates
-
+🟩 4. [Incident Response Templates](https://github.com/hamid-safari/incident-response-samples)
 Professional templates for IR reports, RCAs and post-incident reviews.
-➡️ [See Repository]
 
-🟩 5. Security Tools & Scripts
-
+🟩 5. [Security Tools & Scripts](https://github.com/hamid-safari/security-tools-and-scripts)
 Python and Bash tools for log analysis, file integrity checks and basic monitoring.
-➡️ [See Repository]
 
-🟩 6. Security Awareness Training
-
+🟩 6. [Security Awareness Training](https://github.com/hamid-safari/security-awareness-training)
 Sample training materials and guidelines.
 ➡️
 <!--![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
