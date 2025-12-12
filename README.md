@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hamid Safari! <br/></h1>
 
-<h2>IT Security Consultant | ISMS | Risk Management | ISO 27001 | BSI Grundschutz | BCM:</h2>
+<h2>IT Security Consultant | ISMS | Risk Management | ISO 27001 | BSI Grundschutz | BCM</h2>
 
 
 I build practical, structured and audit-ready security frameworks.
