@@ -6,19 +6,13 @@
 I build practical, structured and audit-ready security frameworks.
 My focus areas:
 
-Information Security Management (ISO 27001 & BSI Grundschutz)
-
-Risk Assessment & Governance
-
-Business Continuity (BCM & BIA)
-
-Incident Response & RCA
-
-Security Documentation & Policies
-
-Network & Infrastructure Security
-
-Secure CI/CD & DevOps Security
+- Information Security Management (ISO 27001 & BSI Grundschutz)
+- Risk Assessment & Governance
+- Business Continuity (BCM & BIA)
+- Incident Response & RCA
+- Security Documentation & Policies
+- Network & Infrastructure Security
+- Secure CI/CD & DevOps Security
 
 
 <!--![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
