@@ -1,11 +1,11 @@
-<h1>Hi, I'm Hamid! <br/><a href="https://github.com/hamid-safari"></a></h1>
+<h1>Hi, I'm Hamid Safari! <br/><a href="https://github.com/hamid-safari"></a></h1>
 
-<h2>👨‍💻 Mobile Development Projects:</h2>
-
+<h2>IT Security Consultant | ISMS | Risk Management | ISO 27001 | BSI Grundschutz | BCM:</h2>
+<!--
 - <b>Android</b>
   - [Let's trip App](https://github.com/hamid-safari/Let-s-trip-App)
 - <b>Flutter</b>
-  - [Personal Finance App](https://github.com/hamid-safari/Personal-Finance-App)
+  - [Personal Finance App](https://github.com/hamid-safari/Personal-Finance-App)-->
   
 <!--<h2>📺 Popular YouTube Videos</h2>
 
@@ -27,14 +27,24 @@
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-safari)](https://github.com/anuraghazra/github-readme-stats)-->
 
+I build practical, structured and audit-ready security frameworks.
+My focus areas:
 
-Here are some facts about me:
+Information Security Management (ISO 27001 & BSI Grundschutz)
 
-- 👯 I’m open to collaborating on open-source projects
-- 💬 Ask me about Kotlin, Flutter, and Android app architecture
-- 😄 Pronouns: "he/him"
+Risk Assessment & Governance
+
+Business Continuity (BCM & BIA)
+
+Incident Response & RCA
+
+Security Documentation & Policies
+
+Network & Infrastructure Security
+
+Secure CI/CD & DevOps Security
 
 
-![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
+<!--![](https://github-readme-stats.vercel.app/api?username=hamid-safari&show_icons=true&theme=nightowl)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-safari&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6)
