@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamid Safari! <br/><a href="https://github.com/hamid-safari"></a></h1>
+<h1>Hi, I'm Hamid Safari! <br/></h1>
 
 <h2>IT Security Consultant | ISMS | Risk Management | ISO 27001 | BSI Grundschutz | BCM:</h2>
 <!--
