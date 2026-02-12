@@ -20,12 +20,12 @@ My focus areas:
 - Secure CI/CD & DevOps Security
 
 <h2>Highlighted Security Projects:</h2>
+
 - [Mini-ISMS based on BSI IT Grundschutz](https://github.com/hamid-safari/SafeLogistics-BSI-ISMS)
 Ein praxisnahes ISMS-Beispiel inkl. Strukturanalyse, Schutzbedarfsfeststellung, Richtlinien und ISO 27001 Mapping
 
 <!--- [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001-example)
 A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
-
 
 
 <!-- - [BSI Grundschutz Example Project](https://github.com/hamid-safari/bsi-grundschutz-example)
