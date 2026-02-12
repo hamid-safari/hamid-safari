@@ -20,26 +20,27 @@ My focus areas:
 - Secure CI/CD & DevOps Security
 
 <h2>Highlighted Security Projects:</h2>
-
-- [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001-example)
-A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
-
 - [Mini-ISMS based on BSI IT Grundschutz](https://github.com/hamid-safari/SafeLogistics-BSI-ISMS)
 Ein praxisnahes ISMS-Beispiel inkl. Strukturanalyse, Schutzbedarfsfeststellung, Richtlinien und ISO 27001 Mapping
 
-- [BSI Grundschutz Example Project](https://github.com/hamid-safari/bsi-grundschutz-example)
+<!--- [Mini-ISMS based on ISO 27001](https://github.com/hamid-safari/mini-isms-iso27001-example)
+A complete example ISMS including policies, asset register, risk assessment and IR playbooks.
+
+
+
+<!-- - [BSI Grundschutz Example Project](https://github.com/hamid-safari/bsi-grundschutz-example)
 Sample IT-Verbund, Schutzbedarf analysis, Maßnahmen and architectural diagrams.
 
-- [BCM & Business Impact Analysis](https://github.com/hamid-safari/bcm-bia-example)
+<!-- - [BCM & Business Impact Analysis](https://github.com/hamid-safari/bcm-bia-example)
 Example BIA, RTOs/RPOs and a simple continuity plan.
 
-- [Incident Response Templates](https://github.com/hamid-safari/incident-response-samples)
+<!-- - [Incident Response Templates](https://github.com/hamid-safari/incident-response-samples)
 Professional templates for IR reports, RCAs and post-incident reviews.
 
-- [Security Tools & Scripts](https://github.com/hamid-safari/security-tools-and-scripts)
+<!-- - [Security Tools & Scripts](https://github.com/hamid-safari/security-tools-and-scripts)
 Python and Bash tools for log analysis, file integrity checks and basic monitoring.
 
-- [Security Awareness Training](https://github.com/hamid-safari/security-awareness-training)
+<!-- ... - [Security Awareness Training](https://github.com/hamid-safari/security-awareness-training)
 Sample training materials and guidelines.
 
 
